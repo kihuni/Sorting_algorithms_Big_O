@@ -14,6 +14,6 @@
 			Sort right half of numbers
 			Merge sorted halves 
 
-- This is an example of a recursive algorithm that continuously divide a list into halves untill it cannot further be divide
+- This is an example of a recursive algorithm that continuously divide a list into halves untill it cannot further be divided
 
 - The first line of the pseudocode acts as the base case to stop the algorithm from running when the is not further dividing needed

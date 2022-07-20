@@ -1,9 +1,9 @@
 ##  Merge Sort 
-	- Its an algorithm where an elements in alist for example, is sorted by first dividing the list into halves:
+- Its an algorithm where an elements in alist for example, is sorted by first dividing the list into halves:
 		
-		- Sorting the first halve then the second one and merging them afterwards
+	- Sorting the first halve then the second one and merging them afterwards
   	
-	- This is an example of divide and conquer strategy
+- This is an example of divide and conquer strategy
 
 ### Example in pseudocode
 	
